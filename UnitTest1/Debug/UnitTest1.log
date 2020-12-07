@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project9.2.2\Project9.2.2\Source1.cpp(111,6): warning C4101: 'kurs': unreferenced local variable
+     Creating library C:\Student\ Tkachenko.Marharyta.IK11\Project9.2.2\Debug\UnitTest1.lib and object C:\Student\ Tkachenko.Marharyta.IK11\Project9.2.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Project9.2.2\Debug\UnitTest1.dll
